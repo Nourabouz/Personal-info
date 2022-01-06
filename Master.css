@@ -1,0 +1,75 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+}
+.insta,
+.fb,
+.mail{
+    width: 10%;
+    margin-left: calc(60%/3.5);
+   
+}
+.fb{
+    border-radius: 25%;
+  
+}
+
+.parent{
+    margin-top: 4%;
+}
+.parent2{
+    margin-top: 5%;
+}
+.fblink{
+    background-color:rgb(57, 90, 147);  
+    padding: 1% 3%;
+   
+}
+
+
+.instalink{
+    background-color: #DD3D89;
+    padding: 1% 2.5%;
+}
+
+.maillink{
+    background-color: black;
+    padding: 1% 3.5%;
+}
+.fblink,
+.instalink,
+.maillink{
+    color: aliceblue;
+    font-size:1.2vw;
+    margin-left: calc(68%/4);
+    text-decoration: none;
+
+    border-radius: 20px;
+}
+
+.info{
+    margin-top: 12%;
+    line-height: 2vh;
+    margin-left: 35%;
+    margin-right: 33%;
+    
+}
+.name{
+    font-size: 3vw;
+    font-style: bold;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.number{
+    font-size: 3vw;
+
+}
+.location{
+    margin-left: 7%;
+    font-size: 3vw;
+   
+}
+
